@@ -85,11 +85,9 @@ student-performance-prediction/
 │
 ├── app.py
 ├── linear.pkl
-├── train.ipynb
 ├── student.ipynb
 ├── Student_Performance.csv
 ├── requirements.txt
-├── .gitignore
 └── README.md
 ```
 
@@ -100,7 +98,7 @@ student-performance-prediction/
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone <https://github.com/Priyanka200702/Student-performance-prediction.git>
 cd student-performance-prediction
 ```
 
